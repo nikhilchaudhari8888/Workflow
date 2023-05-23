@@ -1,4 +1,4 @@
-name: ci
+name: nikhil
 on:
   push:
     branches: ["main"]
